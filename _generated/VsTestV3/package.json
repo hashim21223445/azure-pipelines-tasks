@@ -15,12 +15,12 @@
   "dependencies": {
     "is-unc-path": "^1.0.0",
     "performance-now": "0.2.0",
-    "request": "2.87.0",
-    "string": "3.3.1",
+    "request": "2.88.2",
+    "string": "3.3.3",
     "uuid": "^8.3.0",
     "vso-node-api": "6.0.4-preview",
     "azure-pipelines-task-lib": "^4.1.0",
-    "xml2js": "0.4.16",
+    "xml2js": "0.5.0",
     "@types/node": "^16.11.39",
     "@types/mocha": "^5.2.7",
     "@types/q": "^1.5.0"
