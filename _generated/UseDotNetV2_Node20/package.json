@@ -32,7 +32,7 @@
     "azure-pipelines-tasks-utility-common": "^3.198.1",
     "azure-pipelines-tool-lib": "^2.0.4",
     "json5": "^2.2.3",
-    "semver": "6.3.0",
+    "semver": "6.3.1",
     "typed-rest-client": "^1.8.9"
   },
   "devDependencies": {
