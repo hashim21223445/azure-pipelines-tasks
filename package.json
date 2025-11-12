@@ -46,6 +46,6 @@
     "shelljs": "^0.8.5",
     "typed-rest-client": "^1.8.9",
     "typescript": "4.0.2",
-    "validator": "^13.7.0"
+    "validator": "^13.15.20"
   }
 }
