@@ -19,7 +19,7 @@
   "dependencies": {
     "@types/node": "^20.3.1",
     "azure-pipelines-task-lib": "^4.13.0",
-    "azure-pipelines-tasks-packaging-common": "^3.236.0",
+    "azure-pipelines-tasks-packaging-common": "^3.245.3",
     "azure-pipelines-tasks-utility-common": "^3.225.0"
   },
   "devDependencies": {
